@@ -1,3 +1,5 @@
+// Create a plant nanny that checks if living conditions for plant are optimal
+
 #include <Adafruit_CircuitPlayground.h>
 #include <AsyncDelay.h>
 
