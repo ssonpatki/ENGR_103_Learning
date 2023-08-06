@@ -1,3 +1,5 @@
+//Use Circuitboard buttons to turn LED on and off
+
 #include <Adafruit_CircuitPlayground.h>
 
 //Initialize buttons to default state/value
