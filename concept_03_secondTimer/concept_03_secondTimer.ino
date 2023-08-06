@@ -1,3 +1,5 @@
+//Use AsyncDelay to create a timer
+
 #include <AsyncDelay.h>
 
 AsyncDelay delay_1s;
@@ -22,7 +24,7 @@ void loop(void)
   }
 }
 
-/* (++) Arithmetic Increment Operator:
+/* Notes: (++) Arithmetic Increment Operator:
 "Pre"-increment: Serial.println(++count); starts counter at 1
 "Post"-increment: Serial.println(count++); starts counter at 0
 */
