@@ -1,10 +1,8 @@
-# OSUProjects
+# ENGR103 Learning
 
 # Author
 Siya Sonpatki
 
-## What does it do?
-Running this will...
+## What is included?
+Each file is a seperate coding assignment given during the course. Descriptions of assignment purpose are given in each file.
 
-## New Feature Release
-Ideas branch under main
