@@ -1,3 +1,5 @@
+// Create a program so that the Circuitboard displays through different light patterns when buttons are pressed; light patterns will not display is switch is off
+
 #include <Adafruit_CircuitPlayground.h>
 
 byte buttonA = 4;
