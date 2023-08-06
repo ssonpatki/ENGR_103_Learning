@@ -1,3 +1,5 @@
+//Use the Circuitboard LEDs to communicate message in morse code
+
 // Global Variables are defined here
 int longBlink = 1500;
 int shortBlink = 500;
