@@ -1,3 +1,5 @@
+// Update code from puzzle 7; add new plant living condition
+
 #include <Adafruit_CircuitPlayground.h>
 #include <AsyncDelay.h>
 
